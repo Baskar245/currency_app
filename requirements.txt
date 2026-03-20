@@ -1,3 +1,4 @@
 flask
 inference-sdk
 gunicorn
+python-3.10
