@@ -1,6 +1,3 @@
-Flask==2.3.3
-numpy
-pandas
-scikit-learn
-opencv-python
+flask
+inference-sdk
 gunicorn
